@@ -1,0 +1,27 @@
+    @media all and (min-width: 778px) {
+
+
+        body {
+
+            background-image: url(/order-summary-component-main/images/pattern-background-desktop.svg);
+
+            .container {
+                max-width: 450px;
+                transition: max-width 300ms;
+                align-items: center;
+                margin: 0 auto;
+                
+                    .wrapper {
+                        padding: 2rem;
+                        h1 {
+                            font-size: 2.4rem;
+                        }
+                }
+
+              
+                }
+            }
+
+        }
+        
+    }
